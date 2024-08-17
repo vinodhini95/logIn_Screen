@@ -1,0 +1,33 @@
+[{  "id":1,
+    "question":"What is your Name",
+    "field":"Input",
+    "controler":"Name"
+},
+{
+    "id":2,
+    "question":"What your present company name",
+    "field":"Input",
+    "controler":"company name"
+},
+{
+    "id":3,
+    "question":"Do you have reading habit",
+    "field":"Radio Button",
+     "option":[
+        "Yes",
+        "No"
+     ]
+},
+{   
+    "id":4,
+    "question":"Type your email Id",
+    "field":"Input",
+    "controler":"email Id"
+},
+{
+    "id":5,
+    "question":"Due have social media account",
+    "field":"Check box",
+    "option":["Linked In","Face Book","Insta","Snap Chat"]
+}
+]
